@@ -131,7 +131,7 @@ body.lock_up{background: #222 url('../img/loading_bg.png')}
     font-weight: normal;
     font-style: normal;
 }
-.carousel-control{z-index:101}
+.carousel-control{z-index:1101}
 .content .carousel-inner a{color:#f0ad4e}
 .carousel .left-top{top:0}
 .carousel-inner .img{background-position:center center;min-height:750px}
